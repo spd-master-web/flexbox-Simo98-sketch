@@ -1,0 +1,96 @@
+.desktop-1-kbn {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .rectangle-1-h9e {
+    background-color: #e6ccef;
+    height: 5.9rem;
+    left: 39.2rem;
+    position: absolute;
+    top: 55.4rem;
+    width: 61.6rem;
+  }
+  .line-2-vKE {
+    background-color: #ec3333;
+    height: 4.6rem;
+    left: 53.5rem;
+    position: absolute;
+    top: 56.1rem;
+    width: 0.1rem;
+  }
+  .line-3-PCp {
+    background-color: #ec3333;
+    height: 4.6rem;
+    left: 70rem;
+    position: absolute;
+    top: 56.1rem;
+    width: 0.1rem;
+  }
+  .line-4-5rL {
+    background-color: #ec3333;
+    height: 4.6rem;
+    left: 86.4rem;
+    position: absolute;
+    top: 56.1rem;
+    width: 0.1rem;
+  }
+  .item-1-N4k {
+    color: #ec3333;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 2rem;
+    font-weight: 400;
+    height: 2.5rem;
+    left: 43.3rem;
+    line-height: 1.2125;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 57.1rem;
+    white-space: nowrap;
+    width: 5.7rem;
+  }
+  .item-2-MxG {
+    color: #ec3333;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 2rem;
+    font-weight: 400;
+    height: 2.5rem;
+    left: 58.1rem;
+    line-height: 1.2125;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 57.2rem;
+    white-space: nowrap;
+    width: 6rem;
+  }
+  .item-3-Rx8 {
+    color: #ec3333;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 2rem;
+    font-weight: 400;
+    height: 2.5rem;
+    left: 74.5rem;
+    line-height: 1.2125;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 57.1rem;
+    white-space: nowrap;
+    width: 6rem;
+  }
+  .item-4-JFE {
+    color: #ec3333;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 2rem;
+    font-weight: 400;
+    height: 2.5rem;
+    left: 90.5rem;
+    line-height: 1.2125;
+    position: absolute;
+    text-decoration-line: underline;
+    top: 57.2rem;
+    white-space: nowrap;
+    width: 6rem;
+  }
+}

@@ -1,0 +1,84 @@
+.desktop-1-VEU {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .auto-group-gtja-4Rz {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 102.4rem;
+    width: 34.1rem;
+
+    .auto-group-fwuu-pxt {
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      padding-bottom: 6.2rem;
+      width: 100%;
+
+      .rectangle-1-XcQ {
+        background-color: #a248d9;
+        flex-shrink: 0;
+        height: 24.6rem;
+        width: 24.8rem;
+      }
+      .rectangle-2-Dk8 {
+        background-color: #84eb33;
+        flex-shrink: 0;
+        height: 24.6rem;
+        width: 24.8rem;
+      }
+    }
+    .auto-group-e46g-wg8 {
+      flex-shrink: 0;
+      height: 47rem;
+      position: relative;
+      width: 100%;
+
+      .rectangle-4-51e {
+        background-color: #84eb33;
+        height: 24.6rem;
+        left: 0;
+        position: absolute;
+        top: 22.4rem;
+        width: 24.8rem;
+      }
+      .rectangle-3-mQG {
+        background-color: #edf210;
+        height: 24.6rem;
+        left: 9.3rem;
+        position: absolute;
+        top: 0;
+        width: 24.8rem;
+      }
+    }
+  }
+  .auto-group-wjs2-3sa {
+    align-items: flex-start;
+    box-sizing: border-box;
+    display: flex;
+    flex-shrink: 0;
+    height: 102.4rem;
+    padding: 5.3rem 3.1rem 5.3rem 37.9rem;
+
+    .rectangle-5-wCG {
+      background-color: #d94848;
+      flex-shrink: 0;
+      height: 24.6rem;
+      margin: 3.1rem 19.3rem 0rem 0rem;
+      width: 24.8rem;
+    }
+    .rectangle-6-dqn {
+      background-color: #eeaee3;
+      flex-shrink: 0;
+      height: 24.6rem;
+      width: 24.8rem;
+    }
+  }
+}

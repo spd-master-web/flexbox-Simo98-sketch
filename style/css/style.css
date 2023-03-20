@@ -1,0 +1,51 @@
+.desktop-1-yeU {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .rectangle-1-vy2 {
+    background-color: #d6132b;
+    height: 14.2rem;
+    left: 46.1rem;
+    position: absolute;
+    top: 44.1rem;
+    width: 51.8rem;
+  }
+  .hello-welcome-H4p {
+    color: #ffffff;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 3.5rem;
+    font-weight: 400;
+    height: 4.3rem;
+    left: 58.1rem;
+    line-height: 1.2125;
+    position: absolute;
+    top: 49.1rem;
+    white-space: nowrap;
+    width: 27.8rem;
+  }
+  .ellipse-1-HU8 {
+    height: 13.3rem;
+    left: 90.2rem;
+    object-fit: contain;
+    position: absolute;
+    top: 39.2rem;
+    vertical-align: top;
+    width: 15.4rem;
+  }
+  .new-AH2 {
+    color: #d6132b;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 3.5rem;
+    font-weight: 400;
+    height: 4.3rem;
+    left: 94.1rem;
+    line-height: 1.2125;
+    position: absolute;
+    top: 43.7rem;
+    white-space: nowrap;
+    width: 7.6rem;
+  }
+}
