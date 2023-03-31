@@ -1,11 +1,11 @@
-.desktop-1-TUx {
+.content-CTR {
   background-color: #ffffff;
   height: 102.4rem;
   overflow: hidden;
   position: relative;
   width: 100%;
 
-  .rectangle-1-R4Q {
+  .content-CNT {
     background-color: #e6ccef;
     height: 5.9rem;
     left: 39.2rem;
@@ -13,7 +13,7 @@
     top: 55.4rem;
     width: 61.6rem;
   }
-  .rectangle-2-tEp {
+  .content-CTR {
     background-color: #d54e4e;
     height: 5.9rem;
     left: 39.2rem;
@@ -21,7 +21,7 @@
     top: 55.4rem;
     width: 9.6rem;
   }
-  .site-title-PBa {
+  .content-CNR {
     color: #f5f5f5;
     font-family: Inter, 'Source Sans Pro';
     font-size: 2rem;
@@ -35,7 +35,7 @@
     white-space: nowrap;
     width: 8.4rem;
   }
-  .line-1-zSG {
+  .a {
     background-color: #000000;
     height: 4.6rem;
     left: 66.3rem;
@@ -43,7 +43,7 @@
     top: 56rem;
     width: 0.1rem;
   }
-  .line-2-V88 {
+  .b {
     background-color: #000000;
     height: 4.6rem;
     left: 75.3rem;
@@ -51,7 +51,7 @@
     top: 56rem;
     width: 0.1rem;
   }
-  .line-3-PzC {
+  .c {
     background-color: #000000;
     height: 4.6rem;
     left: 83.8rem;
@@ -59,7 +59,7 @@
     top: 56rem;
     width: 0.1rem;
   }
-  .line-4-KN4 {
+  .d {
     background-color: #000000;
     height: 4.6rem;
     left: 92.6rem;
@@ -67,7 +67,7 @@
     top: 56rem;
     width: 0.1rem;
   }
-  .item-1-Bv4 {
+  .e {
     color: #000000;
     font-family: Inter, 'Source Sans Pro';
     font-size: 2rem;
@@ -81,7 +81,7 @@
     white-space: nowrap;
     width: 5.7rem;
   }
-  .item-2-Tsa {
+  .f {
     color: #000000;
     font-family: Inter, 'Source Sans Pro';
     font-size: 2rem;
@@ -95,7 +95,7 @@
     white-space: nowrap;
     width: 6rem;
   }
-  .item-3-LgU {
+  .g {
     color: #000000;
     font-family: Inter, 'Source Sans Pro';
     font-size: 2rem;
@@ -109,7 +109,7 @@
     white-space: nowrap;
     width: 6rem;
   }
-  .item-4-d9n {
+  .h {
     color: #000000;
     font-family: Inter, 'Source Sans Pro';
     font-size: 2rem;
