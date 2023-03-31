@@ -1,21 +1,26 @@
-nav {
+.nav {
   border-bottom: 1px solid black;
 }
 
-.code {
+.crumbs ol {
   list-style-type: none;
   padding-left: 0;
 }
 
-.html {
+.crumb {
   display: inline-block;
 }
 
-.html a::after {
+.crumb a::after {
   display: inline-block;
   color: #000;
   content: '>';
   font-size: 80%;
   font-weight: bold;
   padding: 0 3px;
+}
+
+.li {
+  font: 1rem 'Fira Sans', sans-serif;
+  margin-bottom: 0.5rem;
 }
