@@ -1,0 +1,40 @@
+.desktop {
+  background-color: #ffffff;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+  .rectangle {
+    background-color: #ffffff;
+    border: solid 0.6rem #e0c3dd;
+    box-sizing: border-box;
+    height: 70.2rem;
+    left: 16.7rem;
+    position: absolute;
+    top: 16.1rem;
+    width: 110.6rem;
+  }
+  .rectangles {
+    background-color: #ffffff;
+    border: solid 0.8rem #e0c3dd;
+    box-sizing: border-box;
+    height: 24.7rem;
+    left: 38.1rem;
+    position: absolute;
+    top: 38.8rem;
+    width: 67.8rem;
+  }
+  .loremipsumdolor {
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    font-size: 2.1rem;
+    font-weight: 400;
+    height: 12.1rem;
+    left: 44rem;
+    line-height: 1.2102272397;
+    position: absolute;
+    top: 44.2rem;
+    width: 56rem;
+  }
+
